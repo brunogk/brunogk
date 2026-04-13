@@ -1,16 +1,13 @@
-## Hi there 👋
+🌱 Biologist & Agronomist | 🎓 MSc in Crop Production | 🧪 PhD Student in Soil Science
 
-<!--
-**brunogk/brunogk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Data-driven mindset built through scientific research, experimental design, and statistical analysis
 
-Here are some ideas to get you started:
+🚀 Transitioning to Data Science & Data Analysis, applying:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 Exploratory Data Analysis (EDA)
+📈 Statistical Modeling
+🧠 Hypothesis Testing & Data Interpretation
+
+🌍 Turning complex environmental and agricultural data into insights for decision-making
+
+💻 Currently developing skills in Python, Power Bi, SQL, R, data analysis, and real-world projects
