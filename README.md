@@ -1,13 +1,27 @@
-🌱 Biologist & Agronomist | 🎓 MSc in Crop Production | 🧪 PhD Student in Soil Science
+🌱 Biólogo & Agrônomo | 🎓 Mestre em Produção Vegetal | 🧪 Doutorando em Ciência do Solo
 
-📊 Data-driven mindset built through scientific research, experimental design, and statistical analysis
+📊 Mentalidade orientada a dados, construída a partir de pesquisa científica, delineamento experimental e análise estatística
 
-🚀 Transitioning to Data Science & Data Analysis, applying:
+🚀 Em transição para Ciência de Dados & Análise de Dados, aplicando:
 
-🔍 Exploratory Data Analysis (EDA)
-📈 Statistical Modeling
-🧠 Hypothesis Testing & Data Interpretation
+🔍 Análise Exploratória de Dados (EDA)
+📈 Modelagem Estatística
+🧠 Testes de Hipóteses & Interpretação de Dados
 
-🌍 Turning complex environmental and agricultural data into insights for decision-making
+🌍 Transformando dados ambientais e agrícolas em insights para tomada de decisão
 
-💻 Currently developing skills in Python, Power Bi, SQL, R, data analysis, and real-world projects
+💻 Atualmente desenvolvendo habilidades em:
+<div style="display: inline">
+  &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />&nbsp;&nbsp;&nbsp;
+</div>
+
+##
+
+### Você também me encontra em:
+&nbsp;<a href="https://www.linkedin.com/in/bruno-gomes-kobicz-659223194">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>&nbsp;
+&nbsp;<a href="https://www.instagram.com/bruno.gomes.k/">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+</a>&nbsp;
