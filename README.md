@@ -2,7 +2,7 @@
 
 📊 Mentalidade orientada a dados, construída a partir de pesquisa científica, delineamento experimental e análise estatística
 
-🚀 Em transição para Ciência de Dados & Análise de Dados, aplicando:
+🚀 Em transição para Ciência de Dados / Análise de Dados/ Machine Learning e IA, aplicando:
 
 🔍 Análise Exploratória de Dados (EDA)
 📈 Modelagem Estatística
